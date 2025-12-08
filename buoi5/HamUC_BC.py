@@ -6,3 +6,5 @@ def USCLN(A,B):
         B = A%B
         A = temp
     return A
+
+    
