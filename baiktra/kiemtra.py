@@ -1,7 +1,6 @@
 import Ham
-N = Ham.nhapN()
 print("Nhập N:", end="")
-
+N = Ham.nhapN()
 
 print("Câu 11")
 So = Ham.nhapN(N)

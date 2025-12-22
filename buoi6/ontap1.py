@@ -18,4 +18,3 @@ Tendem=input("Mời nhập tên đệm: ")
 Ten=input("Mời nhập tên: ")
 noichuoi=Ho + " " + Tendem + " " + Ten
 print(noichuoi)
-
